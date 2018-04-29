@@ -1,4 +1,4 @@
-\name{hello}
+\name{What}
 \alias{hello}
 \title{Hello, World!}
 \usage{
