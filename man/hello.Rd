@@ -1,6 +1,6 @@
 \name{What}
-\alias{hello}
-\title{Hello, World!}
+\alias{What do I do?}
+\title{What is this?}
 \usage{
 hello()
 }
