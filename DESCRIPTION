@@ -1,0 +1,12 @@
+Package: StimsInGames
+Type: Package
+Title: Visualizes varying statistics before and after stimulant drugs
+Version: 0.1.0
+Author: Dakotah Goetz
+Maintainer: Dakotah Goetz <dakotahgoetz@mail.usf.edu>
+Description: This package creates visuals to display the before and after of taking stimulants when playing in
+  a competitive video game environment.
+License: MIt
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
